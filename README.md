@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="BMW_Sales_Dashboard" src="https://github.com/user-attachments/assets/9add904e-0e94-4e7a-aaf1-b5e187e436aa" />
 # BMW Car Sales Dashboard
 
 An interactive dashboard built with Streamlit to visualize BMW car sales trends by year, model, and region using Kaggle’s BMW dataset.
